@@ -1,4 +1,4 @@
-# udi-application-appointment-chec
+# udi-application-appointment-check
 
 A simple selenium script for checking UDI police appointment availability for a citizenship application.
 
